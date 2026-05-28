@@ -11,11 +11,11 @@ La estructura y organización de los directorios se ha mantenido equivalente a l
 
 Además, el repositorio incluye los siguientes archivos adicionales:
 
-- seleccion_individuos.py
+- seleccion_individuos.py\
 Script utilizado para la selección y filtrado de los individuos empleados en el estudio.
-- Datos_necesarios_OMOP.pdf
+- Datos_necesarios_OMOP.pdf\
 Documento que recoge los datos y tablas del modelo OMOP necesarios para el procesamiento e integración de la información clínica.
-- OMOP_mappings.pdf
+- OMOP_mappings.pdf\
 Documento con los mapeos y equivalencias utilizados durante la transformación de datos entre OMOP y los formatos compatibles con Beacon v2.
 Objetivo
 
