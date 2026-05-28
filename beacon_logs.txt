@@ -1,0 +1,274 @@
+beaconprod  | INFO - 2026-04-22T11:47:53.312Z - 172.18.0.1 [22/Apr/2026:11:47:53 +0000] "OPTIONS /api/individuals HTTP/1.1" 200 414 "http://localhost:3000/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:149.0) Gecko/20100101 Firefox/149.0"
+beaconprod  | DEBUG - 2026-04-22T11:47:53.312Z - None - generate_txid - initial call
+beaconprod  | DEBUG - 2026-04-22T11:47:53.313Z - None - generate_txid - 0.0s - returned OK
+beaconprod  | DEBUG - 2026-04-22T11:47:53.313Z - ee8c1af6 - deconstruct_request - initial call
+beaconprod  | DEBUG - 2026-04-22T11:47:53.313Z - ee8c1af6 - deconstruct_request - 0.0s - returned OK
+beaconprod  | DEBUG - 2026-04-22T11:47:53.313Z - ee8c1af6 - set_ip - initial call
+beaconprod  | DEBUG - 2026-04-22T11:47:53.313Z - ee8c1af6 - set_ip - 0.0s - returned OK
+beaconprod  | DEBUG - 2026-04-22T11:47:53.313Z - ee8c1af6 - set_headers - initial call
+beaconprod  | DEBUG - 2026-04-22T11:47:53.313Z - ee8c1af6 - set_headers - 0.0s - returned OK
+beaconprod  | DEBUG - 2026-04-22T11:47:53.313Z - ee8c1af6 - get_qparams - initial call
+beaconprod  | DEBUG - 2026-04-22T11:47:53.313Z - ee8c1af6 - get_qparams - 0.0s - returned OK
+beaconprod  | DEBUG - 2026-04-22T11:47:53.313Z - ee8c1af6 - parse_query_string - initial call
+beaconprod  | DEBUG - 2026-04-22T11:47:53.313Z - ee8c1af6 - parse_query_string - 0.0s - returned OK
+beaconprod  | DEBUG - 2026-04-22T11:47:53.313Z - ee8c1af6 - set_entry_type - initial call
+beaconprod  | DEBUG - 2026-04-22T11:47:53.313Z - ee8c1af6 - set_entry_type_configuration - initial call
+beaconprod  | DEBUG - 2026-04-22T11:47:53.340Z - ee8c1af6 - load_source_module - initial call
+beaconprod  | DEBUG - 2026-04-22T11:47:53.341Z - ee8c1af6 - load_source_module - 0.0s - returned OK
+beaconprod  | DEBUG - 2026-04-22T11:47:53.343Z - ee8c1af6 - set_entry_type_configuration - 0.029s - returned OK
+beaconprod  | DEBUG - 2026-04-22T11:47:53.343Z - ee8c1af6 - set_entry_type - 0.03s - returned OK
+beaconprod  | DEBUG - 2026-04-22T11:47:53.343Z - ee8c1af6 - set_response_type - initial call
+beaconprod  | DEBUG - 2026-04-22T11:47:53.343Z - ee8c1af6 - set_response_type - 0.0s - returned OK
+beaconprod  | DEBUG - 2026-04-22T11:47:53.343Z - ee8c1af6 - state_check - initial call
+beaconprod  | DEBUG - 2026-04-22T11:47:53.343Z - ee8c1af6 - state_check - 0.0s - returned OK
+beaconprod  | DEBUG - 2026-04-22T11:47:53.343Z - check_database_connections - initial call
+beaconprod  | DEBUG - 2026-04-22T11:47:53.343Z - check_database_connections- 0.0s - returned OK
+beaconprod  | DEBUG - 2026-04-22T11:47:53.428Z - ee8c1af6 - permission - initial call
+beaconprod  | DEBUG - 2026-04-22T11:47:53.428Z - ee8c1af6 - permission - 0.0s - returned OK
+beaconprod  | DEBUG - 2026-04-22T11:47:53.428Z - ee8c1af6 - authorization - initial call
+beaconprod  | DEBUG - 2026-04-22T11:47:53.428Z - ee8c1af6 - authorization - 0.0s - returned OK
+beaconprod  | DEBUG - 2026-04-22T11:47:53.432Z - ee8c1af6 - check_budget - initial call
+beaconprod  | DEBUG - 2026-04-22T11:47:53.432Z - ee8c1af6 - check_budget - 0.0s - returned OK
+beaconprod  | DEBUG - 2026-04-22T11:47:53.432Z - ee8c1af6 - get_datasets_list - initial call
+beaconprod  | DEBUG - 2026-04-22T11:47:53.432Z - ee8c1af6 - get_datasets_list - 0.0s - returned OK
+beaconprod  | DEBUG - 2026-04-22T11:47:53.432Z - ee8c1af6 - get_list_of_datasets - initial call
+beaconprod  | DEBUG - 2026-04-22T11:47:53.432Z - ee8c1af6 - get_datasets - initial call
+beaconprod  | DEBUG - 2026-04-22T11:47:53.433Z - ee8c1af6 - get_datasets - 0.001s - returned OK
+beaconprod  | DEBUG - 2026-04-22T11:47:53.439Z - ee8c1af6 - get_list_of_datasets - 0.007s - returned OK
+beaconprod  | DEBUG - 2026-04-22T11:47:53.440Z - ee8c1af6 - get_list_of_datasets - initial call
+beaconprod  | DEBUG - 2026-04-22T11:47:53.440Z - ee8c1af6 - get_collections - initial call
+beaconprod  | DEBUG - 2026-04-22T11:47:53.441Z - ee8c1af6 - get_collections - 0.001s - returned OK
+beaconprod  | DEBUG - 2026-04-22T11:47:53.446Z - ee8c1af6 - get_list_of_datasets - 0.006s - returned OK
+beaconprod  | DEBUG - 2026-04-22T11:47:53.446Z - ee8c1af6 - handler - initial call
+beaconprod  | DEBUG - 2026-04-22T11:47:53.446Z - ee8c1af6 - handler - 0.0s - returned OK
+beaconprod  | DEBUG - 2026-04-22T11:47:53.446Z - ee8c1af6 - load_source_module - initial call
+beaconprod  | DEBUG - 2026-04-22T11:47:53.446Z - ee8c1af6 - load_source_module - 0.0s - returned OK
+beaconprod  | DEBUG - 2026-04-22T11:47:53.446Z - ee8c1af6 - execute_function - initial call
+beaconprod  | DEBUG - 2026-04-22T11:47:53.446Z - ee8c1af6 - execute_function - 0.0s - returned OK
+beaconprod  | DEBUG - 2026-04-22T11:47:53.446Z - ee8c1af6 - get_phenotypic_endpoint - initial call
+beaconprod  | DEBUG - 2026-04-22T11:47:53.446Z - ee8c1af6 - apply_request_parameters - initial call
+beaconprod  | DEBUG - 2026-04-22T11:47:53.446Z - ee8c1af6 - apply_request_parameters - 0.0s - returned OK
+beaconprod  | DEBUG - 2026-04-22T11:47:53.446Z - ee8c1af6 - apply_filters - initial call
+beaconprod  | DEBUG - 2026-04-22T11:47:53.446Z - ee8c1af6 - apply_filters - 0.0s - returned OK
+beaconprod  | DEBUG - 2026-04-22T11:47:53.446Z - ee8c1af6 - get_docs_by_response_type - initial call
+beaconprod  | DEBUG - 2026-04-22T11:47:53.446Z - ee8c1af6 - get_count - initial call
+beaconprod  | DEBUG - 2026-04-22T11:47:53.452Z - ee8c1af6 - get_count - 0.006s - returned OK
+beaconprod  | DEBUG - 2026-04-22T11:47:53.452Z - ee8c1af6 - get_documents - initial call
+beaconprod  | DEBUG - 2026-04-22T11:47:53.452Z - ee8c1af6 - get_documents - 0.0s - returned OK
+beaconprod  | DEBUG - 2026-04-22T11:47:53.459Z - ee8c1af6 - get_docs_by_response_type - 0.012s - returned OK
+beaconprod  | DEBUG - 2026-04-22T11:47:53.459Z - ee8c1af6 - get_phenotypic_endpoint - 0.013s - returned OK
+beaconprod  | DEBUG - 2026-04-22T11:47:53.459Z - ee8c1af6 - include_resultSet_responses - initial call
+beaconprod  | DEBUG - 2026-04-22T11:47:53.459Z - ee8c1af6 - gather_final_datasets_to_return - initial call
+beaconprod  | DEBUG - 2026-04-22T11:47:53.459Z - ee8c1af6 - gather_final_datasets_to_return - 0.0s - returned OK
+beaconprod  | DEBUG - 2026-04-22T11:47:53.459Z - ee8c1af6 - include_resultSet_responses - 0.0s - returned OK
+beaconprod  | ERROR - 2026-04-22T11:47:53.516Z - UNICAS dataset is invalid: 68 validation errors for ResultsetInstance
+beaconprod  | results.0.Genomicvariant.variantInternalId
+beaconprod  |   Field required [type=missing, input_value={'diseases': [{'ageOfOnse...el': 'acetaminophen'}}]}, input_type=dict]
+beaconprod  |     For further information visit https://errors.pydantic.dev/2.6/v/missing
+beaconprod  | results.0.Genomicvariant.variation
+beaconprod  |   Field required [type=missing, input_value={'diseases': [{'ageOfOnse...el': 'acetaminophen'}}]}, input_type=dict]
+beaconprod  |     For further information visit https://errors.pydantic.dev/2.6/v/missing
+beaconprod  | results.0.Run.biosampleId
+beaconprod  |   Field required [type=missing, input_value={'diseases': [{'ageOfOnse...el': 'acetaminophen'}}]}, input_type=dict]
+beaconprod  |     For further information visit https://errors.pydantic.dev/2.6/v/missing
+beaconprod  | results.0.Run.diseases
+beaconprod  |   Extra inputs are not permitted [type=extra_forbidden, input_value=[{'ageOfOnset': {'age': {...'Confirmed diagnosis'}}], input_type=list]
+beaconprod  |     For further information visit https://errors.pydantic.dev/2.6/v/extra_forbidden
+beaconprod  | results.0.Run.interventionsOrProcedures
+beaconprod  |   Extra inputs are not permitted [type=extra_forbidden, input_value=[{'ageAtProcedure': {'age...otentials monitoring'}}], input_type=list]
+beaconprod  |     For further information visit https://errors.pydantic.dev/2.6/v/extra_forbidden
+beaconprod  | results.0.Run.measures
+beaconprod  |   Extra inputs are not permitted [type=extra_forbidden, input_value=[{'assayCode': {'id': 'LO...890', 'label': 'EHR'}}}], input_type=list]
+beaconprod  |     For further information visit https://errors.pydantic.dev/2.6/v/extra_forbidden
+beaconprod  | results.0.Run.phenotypicFeatures
+beaconprod  |   Extra inputs are not permitted [type=extra_forbidden, input_value=[{'featureType': {'id': '...o8601duration': 'P0Y'}}], input_type=list]
+beaconprod  |     For further information visit https://errors.pydantic.dev/2.6/v/extra_forbidden
+beaconprod  | results.0.Run.sex
+beaconprod  |   Extra inputs are not permitted [type=extra_forbidden, input_value={'id': 'NCIT:C20197', 'label': 'Male'}, input_type=dict]
+beaconprod  |     For further information visit https://errors.pydantic.dev/2.6/v/extra_forbidden
+beaconprod  | results.0.Run.treatments
+beaconprod  |   Extra inputs are not permitted [type=extra_forbidden, input_value=[{'ageAtOnset': {'age': {...bel': 'acetaminophen'}}], input_type=list]
+beaconprod  |     For further information visit https://errors.pydantic.dev/2.6/v/extra_forbidden
+beaconprod  | results.0.Biosample.biosampleStatus
+beaconprod  |   Field required [type=missing, input_value={'diseases': [{'ageOfOnse...el': 'acetaminophen'}}]}, input_type=dict]
+beaconprod  |     For further information visit https://errors.pydantic.dev/2.6/v/missing
+beaconprod  | results.0.Biosample.sampleOriginType
+beaconprod  |   Field required [type=missing, input_value={'diseases': [{'ageOfOnse...el': 'acetaminophen'}}]}, input_type=dict]
+beaconprod  |     For further information visit https://errors.pydantic.dev/2.6/v/missing
+beaconprod  | results.0.Analysis.analysisDate
+beaconprod  |   Field required [type=missing, input_value={'diseases': [{'ageOfOnse...el': 'acetaminophen'}}]}, input_type=dict]
+beaconprod  |     For further information visit https://errors.pydantic.dev/2.6/v/missing
+beaconprod  | results.0.Analysis.pipelineName
+beaconprod  |   Field required [type=missing, input_value={'diseases': [{'ageOfOnse...el': 'acetaminophen'}}]}, input_type=dict]
+beaconprod  |     For further information visit https://errors.pydantic.dev/2.6/v/missing
+beaconprod  | results.0.Individual.diseases.0.ageOfOnset
+beaconprod  |   Value error, ageOfOnset, if object, must be any format possible between age, ageRange, gestationalAge, timeInterval or OntologyTerm [type=value_error, input_value={'age': {'iso8601duration': 'P0Y'}}, input_type=dict]
+beaconprod  |     For further information visit https://errors.pydantic.dev/2.6/v/value_error
+beaconprod  | results.0.Individual.diseases.0.stage.id
+beaconprod  |   Value error, id must be CURIE, e.g. NCIT:C42331 [type=value_error, input_value='Condition Status:OMOP4976963', input_type=str]
+beaconprod  |     For further information visit https://errors.pydantic.dev/2.6/v/value_error
+beaconprod  | results.0.Individual.interventionsOrProcedures.0.ageAtProcedure
+beaconprod  |   Value error, ageAtProcedure, if object, must be any format possible between age, ageRange, gestationalAge, timeInterval or OntologyTerm [type=value_error, input_value={'age': {'iso8601duration': 'P0Y'}}, input_type=dict]
+beaconprod  |     For further information visit https://errors.pydantic.dev/2.6/v/value_error
+beaconprod  | results.0.Individual.interventionsOrProcedures.1.ageAtProcedure
+beaconprod  |   Value error, ageAtProcedure, if object, must be any format possible between age, ageRange, gestationalAge, timeInterval or OntologyTerm [type=value_error, input_value={'age': {'iso8601duration': 'P0Y'}}, input_type=dict]
+beaconprod  |     For further information visit https://errors.pydantic.dev/2.6/v/value_error
+beaconprod  | results.0.Individual.interventionsOrProcedures.2.ageAtProcedure
+beaconprod  |   Value error, ageAtProcedure, if object, must be any format possible between age, ageRange, gestationalAge, timeInterval or OntologyTerm [type=value_error, input_value={'age': {'iso8601duration': 'P0Y'}}, input_type=dict]
+beaconprod  |     For further information visit https://errors.pydantic.dev/2.6/v/value_error
+beaconprod  | results.0.Individual.interventionsOrProcedures.3.ageAtProcedure
+beaconprod  |   Value error, ageAtProcedure, if object, must be any format possible between age, ageRange, gestationalAge, timeInterval or OntologyTerm [type=value_error, input_value={'age': {'iso8601duration': 'P0Y'}}, input_type=dict]
+beaconprod  |     For further information visit https://errors.pydantic.dev/2.6/v/value_error
+beaconprod  | results.0.Individual.interventionsOrProcedures.4.ageAtProcedure
+beaconprod  |   Value error, ageAtProcedure, if object, must be any format possible between age, ageRange, gestationalAge, timeInterval or OntologyTerm [type=value_error, input_value={'age': {'iso8601duration': 'P0Y'}}, input_type=dict]
+beaconprod  |     For further information visit https://errors.pydantic.dev/2.6/v/value_error
+beaconprod  | results.0.Individual.measures.0.measurementValue.Quantity.unit
+beaconprod  |   Field required [type=missing, input_value={'quantity': {'referenceR...lable'}, 'value': 26.1}}, input_type=dict]
+beaconprod  |     For further information visit https://errors.pydantic.dev/2.6/v/missing
+beaconprod  | results.0.Individual.measures.0.measurementValue.Quantity.value
+beaconprod  |   Field required [type=missing, input_value={'quantity': {'referenceR...lable'}, 'value': 26.1}}, input_type=dict]
+beaconprod  |     For further information visit https://errors.pydantic.dev/2.6/v/missing
+beaconprod  | results.0.Individual.measures.0.measurementValue.OntologyTerm.id
+beaconprod  |   Field required [type=missing, input_value={'quantity': {'referenceR...lable'}, 'value': 26.1}}, input_type=dict]
+beaconprod  |     For further information visit https://errors.pydantic.dev/2.6/v/missing
+beaconprod  | results.0.Individual.measures.0.measurementValue.TypedQuantities.typedQuantities
+beaconprod  |   Field required [type=missing, input_value={'quantity': {'referenceR...lable'}, 'value': 26.1}}, input_type=dict]
+beaconprod  |     For further information visit https://errors.pydantic.dev/2.6/v/missing
+beaconprod  | results.0.Individual.measures.0.observationMoment
+beaconprod  |   Value error, observationMoment, if object, must be any format possible between age, ageRange, gestationalAge, timeInterval or OntologyTerm [type=value_error, input_value={'age': {'iso8601duration': 'P0Y'}}, input_type=dict]
+beaconprod  |     For further information visit https://errors.pydantic.dev/2.6/v/value_error
+beaconprod  | results.0.Individual.measures.0.procedure.ageAtProcedure
+beaconprod  |   Value error, ageAtProcedure, if object, must be any format possible between age, ageRange, gestationalAge, timeInterval or OntologyTerm [type=value_error, input_value={'age': {'iso8601duration': 'P0Y'}}, input_type=dict]
+beaconprod  |     For further information visit https://errors.pydantic.dev/2.6/v/value_error
+beaconprod  | results.0.Individual.measures.0.procedure.procedureCode.id
+beaconprod  |   Value error, id must be CURIE, e.g. NCIT:C42331 [type=value_error, input_value='Type Concept:OMOP4976890', input_type=str]
+beaconprod  |     For further information visit https://errors.pydantic.dev/2.6/v/value_error
+beaconprod  | results.0.Individual.measures.1.measurementValue.Quantity.unit
+beaconprod  |   Field required [type=missing, input_value={'quantity': {'referenceR...lable'}, 'value': '96'}}, input_type=dict]
+beaconprod  |     For further information visit https://errors.pydantic.dev/2.6/v/missing
+beaconprod  | results.0.Individual.measures.1.measurementValue.Quantity.value
+beaconprod  |   Field required [type=missing, input_value={'quantity': {'referenceR...lable'}, 'value': '96'}}, input_type=dict]
+beaconprod  |     For further information visit https://errors.pydantic.dev/2.6/v/missing
+beaconprod  | results.0.Individual.measures.1.measurementValue.OntologyTerm.id
+beaconprod  |   Field required [type=missing, input_value={'quantity': {'referenceR...lable'}, 'value': '96'}}, input_type=dict]
+beaconprod  |     For further information visit https://errors.pydantic.dev/2.6/v/missing
+beaconprod  | results.0.Individual.measures.1.measurementValue.TypedQuantities.typedQuantities
+beaconprod  |   Field required [type=missing, input_value={'quantity': {'referenceR...lable'}, 'value': '96'}}, input_type=dict]
+beaconprod  |     For further information visit https://errors.pydantic.dev/2.6/v/missing
+beaconprod  | results.0.Individual.measures.1.observationMoment
+beaconprod  |   Value error, observationMoment, if object, must be any format possible between age, ageRange, gestationalAge, timeInterval or OntologyTerm [type=value_error, input_value={'age': {'iso8601duration': 'P0Y'}}, input_type=dict]
+beaconprod  |     For further information visit https://errors.pydantic.dev/2.6/v/value_error
+beaconprod  | results.0.Individual.measures.1.procedure.ageAtProcedure
+beaconprod  |   Value error, ageAtProcedure, if object, must be any format possible between age, ageRange, gestationalAge, timeInterval or OntologyTerm [type=value_error, input_value={'age': {'iso8601duration': 'P0Y'}}, input_type=dict]
+beaconprod  |     For further information visit https://errors.pydantic.dev/2.6/v/value_error
+beaconprod  | results.0.Individual.measures.1.procedure.procedureCode.id
+beaconprod  |   Value error, id must be CURIE, e.g. NCIT:C42331 [type=value_error, input_value='Type Concept:OMOP4976890', input_type=str]
+beaconprod  |     For further information visit https://errors.pydantic.dev/2.6/v/value_error
+beaconprod  | results.0.Individual.measures.2.measurementValue.Quantity.unit
+beaconprod  |   Field required [type=missing, input_value={'quantity': {'referenceR...ilable'}, 'value': 1.1}}, input_type=dict]
+beaconprod  |     For further information visit https://errors.pydantic.dev/2.6/v/missing
+beaconprod  | results.0.Individual.measures.2.measurementValue.Quantity.value
+beaconprod  |   Field required [type=missing, input_value={'quantity': {'referenceR...ilable'}, 'value': 1.1}}, input_type=dict]
+beaconprod  |     For further information visit https://errors.pydantic.dev/2.6/v/missing
+beaconprod  | results.0.Individual.measures.2.measurementValue.OntologyTerm.id
+beaconprod  |   Field required [type=missing, input_value={'quantity': {'referenceR...ilable'}, 'value': 1.1}}, input_type=dict]
+beaconprod  |     For further information visit https://errors.pydantic.dev/2.6/v/missing
+beaconprod  | results.0.Individual.measures.2.measurementValue.TypedQuantities.typedQuantities
+beaconprod  |   Field required [type=missing, input_value={'quantity': {'referenceR...ilable'}, 'value': 1.1}}, input_type=dict]
+beaconprod  |     For further information visit https://errors.pydantic.dev/2.6/v/missing
+beaconprod  | results.0.Individual.measures.2.observationMoment
+beaconprod  |   Value error, observationMoment, if object, must be any format possible between age, ageRange, gestationalAge, timeInterval or OntologyTerm [type=value_error, input_value={'age': {'iso8601duration': 'P0Y'}}, input_type=dict]
+beaconprod  |     For further information visit https://errors.pydantic.dev/2.6/v/value_error
+beaconprod  | results.0.Individual.measures.2.procedure.ageAtProcedure
+beaconprod  |   Value error, ageAtProcedure, if object, must be any format possible between age, ageRange, gestationalAge, timeInterval or OntologyTerm [type=value_error, input_value={'age': {'iso8601duration': 'P0Y'}}, input_type=dict]
+beaconprod  |     For further information visit https://errors.pydantic.dev/2.6/v/value_error
+beaconprod  | results.0.Individual.measures.2.procedure.procedureCode.id
+beaconprod  |   Value error, id must be CURIE, e.g. NCIT:C42331 [type=value_error, input_value='Type Concept:OMOP4976890', input_type=str]
+beaconprod  |     For further information visit https://errors.pydantic.dev/2.6/v/value_error
+beaconprod  | results.0.Individual.measures.3.measurementValue.Quantity.unit
+beaconprod  |   Field required [type=missing, input_value={'quantity': {'referenceR...lable'}, 'value': 26.8}}, input_type=dict]
+beaconprod  |     For further information visit https://errors.pydantic.dev/2.6/v/missing
+beaconprod  | results.0.Individual.measures.3.measurementValue.Quantity.value
+beaconprod  |   Field required [type=missing, input_value={'quantity': {'referenceR...lable'}, 'value': 26.8}}, input_type=dict]
+beaconprod  |     For further information visit https://errors.pydantic.dev/2.6/v/missing
+beaconprod  | results.0.Individual.measures.3.measurementValue.OntologyTerm.id
+beaconprod  |   Field required [type=missing, input_value={'quantity': {'referenceR...lable'}, 'value': 26.8}}, input_type=dict]
+beaconprod  |     For further information visit https://errors.pydantic.dev/2.6/v/missing
+beaconprod  | results.0.Individual.measures.3.measurementValue.TypedQuantities.typedQuantities
+beaconprod  |   Field required [type=missing, input_value={'quantity': {'referenceR...lable'}, 'value': 26.8}}, input_type=dict]
+beaconprod  |     For further information visit https://errors.pydantic.dev/2.6/v/missing
+beaconprod  | results.0.Individual.measures.3.observationMoment
+beaconprod  |   Value error, observationMoment, if object, must be any format possible between age, ageRange, gestationalAge, timeInterval or OntologyTerm [type=value_error, input_value={'age': {'iso8601duration': 'P0Y'}}, input_type=dict]
+beaconprod  |     For further information visit https://errors.pydantic.dev/2.6/v/value_error
+beaconprod  | results.0.Individual.measures.3.procedure.ageAtProcedure
+beaconprod  |   Value error, ageAtProcedure, if object, must be any format possible between age, ageRange, gestationalAge, timeInterval or OntologyTerm [type=value_error, input_value={'age': {'iso8601duration': 'P0Y'}}, input_type=dict]
+beaconprod  |     For further information visit https://errors.pydantic.dev/2.6/v/value_error
+beaconprod  | results.0.Individual.measures.3.procedure.procedureCode.id
+beaconprod  |   Value error, id must be CURIE, e.g. NCIT:C42331 [type=value_error, input_value='Type Concept:OMOP4976890', input_type=str]
+beaconprod  |     For further information visit https://errors.pydantic.dev/2.6/v/value_error
+beaconprod  | results.0.Individual.measures.4.measurementValue.Quantity.unit
+beaconprod  |   Field required [type=missing, input_value={'quantity': {'referenceR...liter'}, 'value': 0.29}}, input_type=dict]
+beaconprod  |     For further information visit https://errors.pydantic.dev/2.6/v/missing
+beaconprod  | results.0.Individual.measures.4.measurementValue.Quantity.value
+beaconprod  |   Field required [type=missing, input_value={'quantity': {'referenceR...liter'}, 'value': 0.29}}, input_type=dict]
+beaconprod  |     For further information visit https://errors.pydantic.dev/2.6/v/missing
+beaconprod  | results.0.Individual.measures.4.measurementValue.OntologyTerm.id
+beaconprod  |   Field required [type=missing, input_value={'quantity': {'referenceR...liter'}, 'value': 0.29}}, input_type=dict]
+beaconprod  |     For further information visit https://errors.pydantic.dev/2.6/v/missing
+beaconprod  | results.0.Individual.measures.4.measurementValue.TypedQuantities.typedQuantities
+beaconprod  |   Field required [type=missing, input_value={'quantity': {'referenceR...liter'}, 'value': 0.29}}, input_type=dict]
+beaconprod  |     For further information visit https://errors.pydantic.dev/2.6/v/missing
+beaconprod  | results.0.Individual.measures.4.observationMoment
+beaconprod  |   Value error, observationMoment, if object, must be any format possible between age, ageRange, gestationalAge, timeInterval or OntologyTerm [type=value_error, input_value={'age': {'iso8601duration': 'P0Y'}}, input_type=dict]
+beaconprod  |     For further information visit https://errors.pydantic.dev/2.6/v/value_error
+beaconprod  | results.0.Individual.measures.4.procedure.ageAtProcedure
+beaconprod  |   Value error, ageAtProcedure, if object, must be any format possible between age, ageRange, gestationalAge, timeInterval or OntologyTerm [type=value_error, input_value={'age': {'iso8601duration': 'P0Y'}}, input_type=dict]
+beaconprod  |     For further information visit https://errors.pydantic.dev/2.6/v/value_error
+beaconprod  | results.0.Individual.measures.4.procedure.procedureCode.id
+beaconprod  |   Value error, id must be CURIE, e.g. NCIT:C42331 [type=value_error, input_value='Type Concept:OMOP4976890', input_type=str]
+beaconprod  |     For further information visit https://errors.pydantic.dev/2.6/v/value_error
+beaconprod  | results.0.Individual.measures.5.measurementValue.Quantity.unit
+beaconprod  |   Field required [type=missing, input_value={'quantity': {'referenceR...lable'}, 'value': '46'}}, input_type=dict]
+beaconprod  |     For further information visit https://errors.pydantic.dev/2.6/v/missing
+beaconprod  | results.0.Individual.measures.5.measurementValue.Quantity.value
+beaconprod  |   Field required [type=missing, input_value={'quantity': {'referenceR...lable'}, 'value': '46'}}, input_type=dict]
+beaconprod  |     For further information visit https://errors.pydantic.dev/2.6/v/missing
+beaconprod  | results.0.Individual.measures.5.measurementValue.OntologyTerm.id
+beaconprod  |   Field required [type=missing, input_value={'quantity': {'referenceR...lable'}, 'value': '46'}}, input_type=dict]
+beaconprod  |     For further information visit https://errors.pydantic.dev/2.6/v/missing
+beaconprod  | results.0.Individual.measures.5.measurementValue.TypedQuantities.typedQuantities
+beaconprod  |   Field required [type=missing, input_value={'quantity': {'referenceR...lable'}, 'value': '46'}}, input_type=dict]
+beaconprod  |     For further information visit https://errors.pydantic.dev/2.6/v/missing
+beaconprod  | results.0.Individual.measures.5.observationMoment
+beaconprod  |   Value error, observationMoment, if object, must be any format possible between age, ageRange, gestationalAge, timeInterval or OntologyTerm [type=value_error, input_value={'age': {'iso8601duration': 'P0Y'}}, input_type=dict]
+beaconprod  |     For further information visit https://errors.pydantic.dev/2.6/v/value_error
+beaconprod  | results.0.Individual.measures.5.procedure.ageAtProcedure
+beaconprod  |   Value error, ageAtProcedure, if object, must be any format possible between age, ageRange, gestationalAge, timeInterval or OntologyTerm [type=value_error, input_value={'age': {'iso8601duration': 'P0Y'}}, input_type=dict]
+beaconprod  |     For further information visit https://errors.pydantic.dev/2.6/v/value_error
+beaconprod  | results.0.Individual.measures.5.procedure.procedureCode.id
+beaconprod  |   Value error, id must be CURIE, e.g. NCIT:C42331 [type=value_error, input_value='Type Concept:OMOP4976890', input_type=str]
+beaconprod  |     For further information visit https://errors.pydantic.dev/2.6/v/value_error
+beaconprod  | results.0.Individual.treatments.0.ageAtOnset.iso8601duration
+beaconprod  |   Field required [type=missing, input_value={'age': {'iso8601duration': 'P0Y'}}, input_type=dict]
+beaconprod  |     For further information visit https://errors.pydantic.dev/2.6/v/missing
+beaconprod  | results.0.Individual.treatments.1.ageAtOnset.iso8601duration
+beaconprod  |   Field required [type=missing, input_value={'age': {'iso8601duration': 'P0Y'}}, input_type=dict]
+beaconprod  |     For further information visit https://errors.pydantic.dev/2.6/v/missing
+beaconprod  | results.0.Individual.treatments.2.ageAtOnset.iso8601duration
+beaconprod  |   Field required [type=missing, input_value={'age': {'iso8601duration': 'P0Y'}}, input_type=dict]
+beaconprod  |     For further information visit https://errors.pydantic.dev/2.6/v/missing
+beaconprod  | results.0.Individual.treatments.3.ageAtOnset.iso8601duration
+beaconprod  |   Field required [type=missing, input_value={'age': {'iso8601duration': 'P0Y'}}, input_type=dict]
+beaconprod  |     For further information visit https://errors.pydantic.dev/2.6/v/missing
+beaconprod  | results.0.Individual.treatments.4.ageAtOnset.iso8601duration
+beaconprod  |   Field required [type=missing, input_value={'age': {'iso8601duration': 'P0Y'}}, input_type=dict]
+beaconprod  |     For further information visit https://errors.pydantic.dev/2.6/v/missing
+beaconprod  | results.0.Individual.treatments.5.ageAtOnset.iso8601duration
+beaconprod  |   Field required [type=missing, input_value={'age': {'iso8601duration': 'P0Y'}}, input_type=dict]
+beaconprod  |     For further information visit https://errors.pydantic.dev/2.6/v/missing
+beaconprod  | DEBUG - 2026-04-22T11:47:53.516Z - ee8c1af6 - load_module_to_insert_budget - initial call
+beaconprod  | DEBUG - 2026-04-22T11:47:53.516Z - ee8c1af6 - insert_budget - initial call
+beaconprod  | DEBUG - 2026-04-22T11:47:53.522Z - ee8c1af6 - insert_budget - 0.006s - returned OK
+beaconprod  | DEBUG - 2026-04-22T11:47:53.522Z - ee8c1af6 - load_module_to_insert_budget - 0.007s - returned OK
+beaconprod  | INFO - 2026-04-22T11:47:53.523Z - 172.18.0.1 [22/Apr/2026:11:47:53 +0000] "POST /api/individuals HTTP/1.1" 200 746 "http://localhost:3000/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:149.0) Gecko/20100101 Firefox/149.0"
+
