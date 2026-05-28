@@ -1,0 +1,67 @@
+Consulta: 
+
+post: http://localhost:5050/api/g_variants/b81e1961f04a8702a3e79abd008c37781e10feaff9d8c449ee4aabd662ad371a/individuals
+
+{
+  "meta": {
+    "apiVersion": "2.0"
+  },
+  "query": {
+    "filters": [
+      {
+        "id": "GENO:0000458"
+      }
+    ],
+    "includeResultsetResponses": "HIT",
+    "pagination": {
+      "skip": 0,
+      "limit": 10
+    },
+    "testMode": false,
+    "requestedGranularity": "count"
+  }
+}
+
+Respuesta: 
+
+{
+   "meta": {
+       "apiVersion": "v2.2.0",
+       "beaconId": "org.ega-archive.beacon-ri-demo",
+       "receivedRequestSummary": {
+           "apiVersion": "2.0",
+           "requestedSchemas": [],
+           "pagination": {
+               "skip": 0,
+               "limit": 10
+           },
+           "requestedGranularity": "count",
+           "testMode": false,
+           "filters": [],
+           "requestParameters": {},
+           "includeResultsetResponses": "HIT"
+       },
+       "returnedGranularity": "count",
+       "returnedSchemas": [
+           {
+              "entityType": "individual",
+               "schema": "beacon-individual-v2.0.0"
+           }
+       ],
+       "testMode": false
+   },
+   "responseSummary": {
+       "exists": true,
+       "numTotalResults": 25
+   },
+   "response": {
+       "resultSets": [
+           {
+               "exists": true,
+               "id": "CINECA_synthetic_cohort_EUROPE_UK1",
+               "resultsCount": 25,
+               "setType": "dataset"
+           }
+       ]
+   }
+}
