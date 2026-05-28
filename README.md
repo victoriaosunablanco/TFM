@@ -17,6 +17,7 @@ El proyecto tiene como objetivo facilitar la interoperabilidad y el acceso estan
 ├── beacon2-pi-api/
 ├── DATOS_NECESARIOS_OMOP_completo.pdf
 ├── OMOP_mappings.pdf
+├── beacon_logs.txt
 ├── seleccion_individuos.py
 └── README.md
 ```
@@ -42,6 +43,9 @@ Script utilizado para la selección de los individuos incluidos en el estudio.
 
 ### `DATOS_NECESARIOS_OMOP_completo.pdf`
 Documento que recopila las tablas, campos y formatos del modelo **OMOP** necesarias.
+
+### `beacon_logs.txt`
+Documento que contiene los logs en los que se especifican los valores invalidos recogidos en la coleccion *individuals*. 
 
 ### `OMOP_mappings.pdf`
 Documento que contiene los mapeos y equivalencias empleados durante la transformación de datos entre el modelo **OMOP** y los formatos compatibles con **Beacon v2**.
